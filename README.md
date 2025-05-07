@@ -1,5 +1,8 @@
 # 건설 안전사고 대응 및 재발방지 대책 AI 시스템
 
+## 인증서
+![Certificate](https://github.com/user-attachments/assets/6d294a4d-5f6c-4c3f-8f5b-f40499a4ecf2)
+
 ## 목차 (빠른 이동)
 - [프로젝트 개요](#overview)
 - [시스템 아키텍처](#architecture)
